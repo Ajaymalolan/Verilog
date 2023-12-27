@@ -1,1 +1,1 @@
-Verilog codes personally verified by me
+Verilog codes personally coded and verified by me
